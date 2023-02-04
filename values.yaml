@@ -1,0 +1,7 @@
+glitchtip:
+  env:
+    secret:
+      SECRET_KEY: test-abc
+  web:
+    service:
+      type: NodePort
